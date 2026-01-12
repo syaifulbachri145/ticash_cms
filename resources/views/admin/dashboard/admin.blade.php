@@ -12,7 +12,7 @@
         <li class="mr-6 my-2 md:my-0">
             <a href="#"
                 class="block py-1 md:py-3 pl-1 align-middle text-blue-600 no-underline hover:text-blue-600 border-b-2 border-blue-600 hover:border-blue-600">
-                <span class="pb-1 md:pb-0 text-sm">Dashboard Admin</span>
+                <span class="pb-1 md:pb-0 text-sm">Wellcome</span>
             </a>
         </li>
 
